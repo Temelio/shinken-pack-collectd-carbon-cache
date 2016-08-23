@@ -1,0 +1,6 @@
+{
+    "name": "collectd-carbon-cache",
+    "description": "Checks to manage our carbon-cache collectd checks",
+    "path": "collectd-carbon-cache",
+    "macros": {}
+}
